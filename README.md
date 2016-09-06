@@ -29,13 +29,15 @@ Here are some suggestions; you are welcome to add your own:
 
 - [ ] HAML
 - [ ] Jade
-- [ ] Handlebars / Mustache
+- [ ] Underscore / Handlebars / Mustache
 
 **Other Web Frameworks**
 
-- [ ] Sails.js
 - [ ] Flask
 - [ ] Django
+- [ ] Vue
+- [ ] LAMP
+
 
 **Ruby and/or Rails**
 
@@ -99,4 +101,5 @@ Here are some suggestions; you are welcome to add your own:
 **ETC**
 
 - [ ] Websockets / Socket.io
+- [ ] Anything Quantum 
 - [ ] TCP/IP
